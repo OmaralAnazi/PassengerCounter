@@ -19,5 +19,5 @@ The "Passenger Counter" is a guided project from Module 3 of the Scrimba Front-E
 Clone the repository and open the `index.html` file to start counting visitors in your browser.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://cheerful-cheesecake-6a01ca.netlify.app/)
 
